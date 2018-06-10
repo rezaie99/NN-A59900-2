@@ -1,8 +1,10 @@
 # NN-A59900-2
 
 Data is avaible. 
-Nature Neuroscience Codes for Zebrafish tracking and LFP analysis
+Nature Neuroscience Codes for image analysis and connectivty calculation from calcium imaging in Zebrafish.
 
-Brain activity patterns in high-throughput electrophysiology screen predict both drug efficacies and side effects PM Eimon, M Ghannad-Rezaie, G De Rienzo, A Allalou… - Nature communications, 2018
+Engineering brain activity patterns by neuromodulator polytherapy for treatment of disorders
+Mostafa Ghannad-Rezaie, Peter M. Eimon, Yuelong Wu, and Mehmet Fatih Yanik
+
 
 
